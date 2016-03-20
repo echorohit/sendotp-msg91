@@ -1,0 +1,36 @@
+{
+  "name": "msg91otp",
+  "version": "1.0.0",
+  "description": "Msg91 Otp api node module",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "OTP",
+    "msg91"
+  ],
+  "engines": {
+    "node": ">=4.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/echorohit/sendotp-msg91.git"
+  },
+  "author": "echorohit",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/echorohit/sendotp-msg91/issues"
+  },
+  "homepage": "https://github.com/echorohit/sendotp-msg91#readme",
+  "dependencies": {
+    "hoek": "^3.0.4",
+    "joi": "^8.0.4",
+    "request-promise": "^2.0.1",
+    "wreck": "^7.0.2"
+  },
+  "devDependencies": {
+    "code": "^2.1.1",
+    "lab": "^10.3.0"
+  }
+}
