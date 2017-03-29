@@ -1,2 +1,8 @@
-# sendotp-msg91
-OTP sms provider msg91 node module (Inspired from Sir Erran Hammer(hueniverse))
+# msg91opt
+
+A Hapi plugin package to implement msg91.com api to send Otp messagess
+
+```
+npm install --save msg91otp
+
+```
